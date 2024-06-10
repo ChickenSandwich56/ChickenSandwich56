@@ -7,6 +7,6 @@
 
 
 
-- 🔭 I’m currently working on the MOOC Java course
+
 
 
